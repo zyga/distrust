@@ -158,7 +158,7 @@ creating additional revocation records. This is useful for mistakes where no
 breach of trust had occurred and the person is still trustworthy.
 
 This command requires access to the GPG keyring to discover and confirm the
-identify of the <person> and to sign the trust record.
+identify of the person and to sign the trust record.
 
 trust file for project
 ----------------------
