@@ -94,7 +94,7 @@ The point of using namespaces is to allow the distrust system to be used by all
 developers and downstream consumers (users or developers) regardless of the
 language or technology that a particular program is associated with. If
 successful, Distrust could be deployed to secure pypi, ruby gems, ubuntu ppa
-packages, freedesktop.com source releases and anything else.
+packages, freedesktop.org source releases and anything else.
 
 Now, going back to the example, Alice will trust Bob to author "useful-tool"
 
