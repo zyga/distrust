@@ -155,7 +155,7 @@ explicit distrust record. The user can also provide an optional comment.
 
 The optional --remove keyword can be used to remove a trust record without
 creating additional revocation records. This is useful for mistakes where no
-breach of trust had occurred and the <person> is still trustworthy.
+breach of trust had occurred and the person is still trustworthy.
 
 This command requires access to the GPG keyring to discover and confirm the
 identify of the <person> and to sign the trust record.
